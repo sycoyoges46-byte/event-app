@@ -10,3 +10,4 @@ bcrypt
 pytest
 httpx
 python-dotenv
+email-validator
